@@ -1,8 +1,8 @@
-application: px1-malu-me
+application: px2-malu-me
 version: 1
 runtime: python27
 api_version: 1
-threadsafe: true
+threadsafe: yes
 
 handlers:
 - url: /fetch\.py

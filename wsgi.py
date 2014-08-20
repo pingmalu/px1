@@ -4,7 +4,7 @@
 #      Phus Lu        <phus.lu@gmail.com>
 
 __version__ = '1.10.1'
-__password__ = ''
+__password__ = 'green'
 
 import sys, os, time, struct, zlib, binascii, logging, httplib, urlparse
 try:
